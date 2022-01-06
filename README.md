@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rohanguptatx
+- 👀 I’m interested in cooking, running, traveling and learning new things...
+- 🌱 I’m currently learning how to code...
+- 📫 How to reach me on linkedin https://www.linkedin.com/in/rohanguptatx/...
+
+<!---
+rohanguptatx/rohanguptatx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
